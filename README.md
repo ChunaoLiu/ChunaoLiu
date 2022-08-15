@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Chunao Liu
-### I'm an undergraduate student at Purdue University - West Lafayette
+### I'm an graduate student / researcher at Purdue University - West Lafayette
 ### I have great passion on Computer Science, including Software Engineering, System Programming & more!
+### Currently research in an Optimized CPU architecture for Cloud Native Environment
 
-- Current Year: Senior
-
-#### Major Projects:
+#### SWE Projects:
   - [WhiteBoard](https://github.com/Anurag-Shah/WhiteBoard): a cross-platform mobile IDE that can scan code using OCR, process by OpenCV and compile using different compilers.
   - [Pow-Wow](https://github.com/aNewbieProgrammer/Pow-Wow): an Online Consultant App, featuring a fully working back-end and front-end IOS app.
   - [My Portfolio](https://github.com/aNewbieProgrammer/chunao-portfolio): a React based slide-show portfolio of mine. A long-term website that I will keep updating as my life progress.
