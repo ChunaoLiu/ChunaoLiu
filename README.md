@@ -5,8 +5,8 @@
 
 #### SWE Projects:
   - [WhiteBoard](https://github.com/Anurag-Shah/WhiteBoard): a cross-platform mobile IDE that can scan code using OCR, process by OpenCV and compile using different compilers.
+  - [HackerTime](https://github.com/HBillaud/HackerTime-Backend): a online Interview website with seamless synchronized IDE using Operational Transformation and real-time video streaming.
   - [Pow-Wow](https://github.com/aNewbieProgrammer/Pow-Wow): an Online Consultant App, featuring a fully working back-end and front-end IOS app.
-  - [My Portfolio](https://github.com/aNewbieProgrammer/chunao-portfolio): a React based slide-show portfolio of mine. A long-term website that I will keep updating as my life progress.
   - [Pastagram](https://github.com/aNewbieProgrammer/Parstagram): A simple clone of the Instagram IOS app, able to post, edit and upload pictures into Instagram database.
  
 #### Competition History:
