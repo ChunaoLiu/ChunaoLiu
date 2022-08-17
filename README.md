@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chunao Liu
 ### I'm an graduate student / researcher at Purdue University - West Lafayette
 ### I have great passion on Computer Science, including Software Engineering, System Programming & more!
-### Currently research in an Optimized CPU architecture for Cloud Native Environment
+### My current research: Develop a cloud-native domain specific CPU architecture to accelerate microservices
 
 #### SWE Projects:
   - [WhiteBoard](https://github.com/Anurag-Shah/WhiteBoard): a cross-platform mobile IDE that can scan code using OCR, process by OpenCV and compile using different compilers.
