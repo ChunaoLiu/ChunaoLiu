@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chunao Liu
 ### I'm an graduate student / researcher at Purdue University - West Lafayette
-### I have great passion on Computer Science, and I'm pursuing a better software hardware co-design career in cloud industry
+### I have great passion on Computer Science, and I'm pursuing a software hardware co-design career in cloud industry
 ### My current research: Develop a cloud-native domain specific CPU architecture to accelerate microservices
 
 #### SWE Projects:
