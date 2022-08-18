@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Chunao Liu
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChunaoLiu&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm an graduate student / researcher at Purdue University - West Lafayette
 ### I have great passion on Computer Science, and I'm pursuing a software hardware co-design career in cloud industry
 ### My current research: Develop a cloud-native domain specific CPU architecture to accelerate microservices
