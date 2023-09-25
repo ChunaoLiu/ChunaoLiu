@@ -14,8 +14,7 @@
   - [μManyCore, a Cloud-Native CPU for Tail-at-Scale](https://dl.acm.org/doi/abs/10.1145/3579371.3589068)
  
 #### Competition History:
-  - [2021 MCM mathematic Modelling competition: Type A paper](https://github.com/aNewbieProgrammer/MCM-Paper)
-  
+  - [2021 MCM mathematic Modelling competition: Type A paper (ISCA 2023)](https://github.com/aNewbieProgrammer/MCM-Paper)
 #### [My Linkedin page](https://www.linkedin.com/in/chunao-liu-1a7a31204/)
  
 #### 💞️ I'm currently looking for an internship on Software Engineering, preferring back-end and system engineering
