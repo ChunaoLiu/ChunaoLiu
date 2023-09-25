@@ -9,6 +9,9 @@
   - [HackerTime](https://github.com/HBillaud/HackerTime-Backend): a online Interview website with seamless synchronized IDE using Operational Transformation and real-time video streaming.
   - [Pow-Wow](https://github.com/aNewbieProgrammer/Pow-Wow): an Online Consultant App, featuring a fully working back-end and front-end IOS app.
   - [Pastagram](https://github.com/aNewbieProgrammer/Parstagram): A simple clone of the Instagram IOS app, able to post, edit and upload pictures into Instagram database.
+
+#### Publication:
+  - [μManyCore, a Cloud-Native CPU for Tail-at-Scale](https://dl.acm.org/doi/abs/10.1145/3579371.3589068)
  
 #### Competition History:
   - [2021 MCM mathematic Modelling competition: Type A paper](https://github.com/aNewbieProgrammer/MCM-Paper)
