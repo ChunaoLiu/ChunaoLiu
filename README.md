@@ -17,7 +17,6 @@
   - [2021 MCM mathematic Modelling competition: Type A paper](https://github.com/aNewbieProgrammer/MCM-Paper)
 #### [My Linkedin page](https://www.linkedin.com/in/chunao-liu-1a7a31204/)
  
-#### 💞️ I'll become a full-time Cloud SWE at HPE in Fall 2024
 #### 📫 Please contact me through my email: liu2849@purdue.edu
 
 <!---
