@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Chunao Liu
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChunaoLiu&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I was an full-time Cloud Software Engineer at HPE
 ### graduate student Alumni / researcher at Purdue University - West Lafayette
 ### I have great passion on Computer Science, and I'm pursuing a software hardware co-design career in cloud industry
