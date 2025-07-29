@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chunao Liu
 
 ### Currently an Embedded Firmware QA Engineer at Apple
-### I was an full-time Cloud Software Engineer at HPE
+### I was a Cloud Software Engineer at HPE
 ### graduate student Alumni / researcher at Purdue University - West Lafayette
 ### I have great passion on Computer Science, and I'm pursuing a software hardware co-design career in cloud industry
 
